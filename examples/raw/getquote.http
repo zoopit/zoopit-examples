@@ -1,0 +1,5 @@
+GET /v2/quote/3?pickup=667&amp;delivery=667&amp;weight=10&amp;offset=2 HTTP/1.1
+Host: api.test.zoopit.no
+api-key: <<YOUR_API_KEY_HERE>>
+Cache-Control: no-cache
+
